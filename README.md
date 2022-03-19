@@ -21,4 +21,5 @@
 [![VK](https://img.shields.io/badge/-vk-090909?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/dan_ivakhin)
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/dan_ivakhin)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eevaken)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eevaken&layout=compact&show_icons=true&bg_color=090909&text_color=fff&title_color=FFF&border_color=090909&border_radius=0)](https://github.com/EeVakEn?tab=repositories)
+
