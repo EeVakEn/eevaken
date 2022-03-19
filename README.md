@@ -1,6 +1,7 @@
 ## I'm a beginner software engeneer
-
-### Languages and Tools
+21 years odl
+Live in Russia, Omsk
+## Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -9,6 +10,7 @@
 ![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=092E20)
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logoColor=009639)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=007396)
 
 ## Follow me
 
