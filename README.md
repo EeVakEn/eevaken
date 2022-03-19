@@ -20,3 +20,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/eevaken)
 [![VK](https://img.shields.io/badge/-vk-090909?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/dan_ivakhin)
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/dan_ivakhin)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eevaken)
