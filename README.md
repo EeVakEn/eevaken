@@ -1,7 +1,10 @@
 ## I'm a beginner software engeneer
-21 years odl
-Live in Russia, Omsk
+#### 21 years old
+#### Live in Russia, Omsk
+#### I like web)
+
 ## Languages and Tools
+
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
