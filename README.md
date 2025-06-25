@@ -4,7 +4,7 @@
 
 ## Languages and Tools
 
-![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=C%2b%2b&logoColor=00599C)
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP%2b%2b&logoColor=00599C)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
