@@ -1,5 +1,3 @@
-#### <?= (new DateTimeImmutable('2000-08-09'))->diff(new DateTimeImmutable())->y ?> years old
-#### Live in Russia, Omsk
 #### I like web)
 
 ## Languages and Tools
