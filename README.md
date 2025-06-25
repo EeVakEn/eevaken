@@ -1,4 +1,4 @@
-#### Web Developer
+## Web Developer
 
 ## Languages and Tools
 
@@ -10,7 +10,7 @@
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=092E20)
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logoColor=009639)
 
-## Follow me
+## Contacts
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/eevaken)
 
